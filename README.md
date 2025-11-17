@@ -11,7 +11,7 @@ Download and install OptiPerformer software on your computer and run a sample fi
 Optiwave introduces **OptiPerformer**, a free photonic design automation tool that harnesses the full power of OptiSystem and creates specific dynamic design scenarios for student use.
 
 In this exercise, you will:
-- Download and install OptiPerformer on your PC/laptop.
+- Download and install OptiPerformer on your PC/laptop
 - Use your license to load and run OptiSystem simulations prepared for this course.
 
 The first simulation file (`Introduction_OptiPerformer.osp`) models a basic fiber optic system consisting of:
